@@ -1,9 +1,10 @@
-## # Hi, I'm Rahul 👋
+# Hi, I'm Rahul 👋
 
 🚀 Full Stack Developer (.NET + React + Angular)  
 📍 India  
 
 I build scalable web applications and currently expanding into AI-powered systems.
+
 ---
 
 ## 💼 What I Do
@@ -15,27 +16,25 @@ I build scalable web applications and currently expanding into AI-powered system
 - REST API Architecture
 
 ---
-## 🚀 Featured Projects
 
-### 🛒 ECommerce Web Application
-Full-stack eCommerce platform with authentication, cart, and admin panel.
+## 🧠 Currently Learning
 
-Tech: .NET, React, MySQL
+- Python for Machine Learning
+- Data Analysis with Pandas
+- ML Model Building (Scikit-learn)
+- AI Integration into Web Applications
 
 ---
 
+## 🚀 Featured Projects
 
-<!--
-**Rahulsaraf1578/Rahulsaraf1578** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛒 ECommerce Web Application      
+🔗 Live Demo: [View Live Demo](https://crnclothing.netlify.app/)  
+🔗 Repo: [Repo Link](https://github.com/Rahulsaraf1578/ECommerce/tree/main/crwn-clothing)    
+🛠 Tech: .NET, React, MySQL
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Contact
+
+Open to freelance web development projects and AI-integrated systems.
